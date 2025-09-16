@@ -2,7 +2,7 @@
 
 This project explores **binary image segmentation** for fingernails using a compact **U-Net** model implemented in TensorFlow/Keras.
 
-![Example segmentation](Results/example_train.png)
+![Example segmentation](Results/example_test.png)
 
 ## Project Overview
 - **Task:** Segment fingernails (foreground) from background in hand images.
